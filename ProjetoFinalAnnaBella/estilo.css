@@ -1,0 +1,44 @@
+body{
+	background: #ffffff url(https://wallpaperset.com/w/full/2/a/0/225676.jpg);
+	font: 16px Arial, Helvetica, sans-serif;
+	color: #000000;
+}
+
+#principal {
+	width: 900px;
+}
+
+#menu {
+	background: #000000;
+	padding: 18px;
+}
+
+#conteudo {
+	background: #ffffff;
+	padding: 10px;
+}
+
+#rodape {
+	text-align: center;
+}
+
+a {
+	color: #0CC9F7;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.centralizar {
+	text-align: center;
+}
+
+.img-campanha {
+	border: 10px solid #ffffff;
+}
+
+h1 {
+	color: #0CC9F7;
+	font-size: 1.2em;
+}
+
